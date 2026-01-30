@@ -4,7 +4,7 @@
 Portal System Sales is a robust web-based solution designed for small to medium businesses to manage their daily operations. The system focuses on inventory control, sales tracking, and customer management, providing a clean interface for administrators to monitor business performance and generate transaction records efficiently.
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla), Bootstrap
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 - **Backend:** PHP
 - **Database:** MySQL
 - **Hosting/Server:** InfinityFree (Apache)
