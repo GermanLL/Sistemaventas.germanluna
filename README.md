@@ -31,7 +31,7 @@ To set up this project on your local environment:
   
 - Use the HeidiSQL database.
 
-- Place the project folder in the htdocs (Xampp).
+- Place the project folder in the htdocs (Xampp). name the folder sistema-ventas
 
 3. **Database Configuration:**
 
@@ -44,7 +44,7 @@ To set up this project on your local environment:
 
 5. **Access the App:**
 
-- Navigate to http://localhost/... in your web browser. (The directory should be where the files are located in the folder created in Htdocs (Xampp)).
+- Navigate to http://localhost/sistema-ventas/index.php in your web browser. (The directory should be where the files are located in the folder created in Htdocs (Xampp)).
 
 ## 🌍 Live Demo
 - Experience the live application here: https://portalsystemeventes.infinityfreeapp.com/
