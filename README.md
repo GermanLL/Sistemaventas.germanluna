@@ -45,6 +45,7 @@ To set up this project on your local environment:
 5. **Access the App:**
 
 - Navigate to http://localhost/sistema-ventas/index.php in your web browser. (The directory should be where the files are located in the folder created in Htdocs (Xampp)).
+- You can create an account; once you've sent your credentials, click on "Already have an account? Log in!".
 
 ## 🌍 Live Demo
 - Experience the live application here: https://portalsystemeventes.infinityfreeapp.com/
