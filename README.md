@@ -23,13 +23,13 @@ To set up this project on your local environment:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/GermanLL/Sistemaventas.germanluna.git](https://github.com/GermanLL/Sistemaventas.germanluna.git)
+   git clone https://github.com/GermanLL/Sistemaventas.germanluna.git
 
 2. **Environment Setup:**
 
 - Use a local server environment like XAMPP, WAMP, or Laragon.
 
-- Place the project folder in the htdocs or www directory.
+- Place the project folder in the htdocs (Xampp).
 
 3. **Database Configuration:**
 
