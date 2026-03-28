@@ -13,9 +13,9 @@ date_default_timezone_set('America/Argentina/Buenos_Aires');
 
 class Config {
     const BBDD_HOST = "localhost";
-    const BBDD_PORT= "3606";
+    const BBDD_PORT= "3306";
     const BBDD_USUARIO = "u188377931_Sistemaventas";
-    const BBDD_CLAVE = "Namreg2025$";
+    const BBDD_CLAVE = "";
     const BBDD_NOMBRE = "u188377931_Sistemaventas";
 }
 
