@@ -28,22 +28,23 @@ To set up this project on your local environment:
 2. **Environment Setup:**
 
 - Use a local server environment like XAMPP, WAMP, or Laragon.
+  
+- Use the HeidiSQL database.
 
 - Place the project folder in the htdocs (Xampp).
 
 3. **Database Configuration:**
 
-- Open phpMyAdmin and create a database named sistema_ventas (or the one defined in your config file).
+- Open HeidiSQL and import the database u188377931_sistemaventas.
 
-- Import the provided SQL dump file (if available) to set up the tables.
 
 4. **Database Connection:**
 
--Edit the connection file (usually conexion.php or similar) with your local database credentials.
+-Edit the connection file (config.php) If nothing changed during the import, you only need to check the port.
 
 5. **Access the App:**
 
-- Navigate to http://localhost/Sistemaventas.germanluna in your web browser.
+- Navigate to http://localhost/... in your web browser. (The directory should be where the files are located in the folder created in Htdocs (Xampp)).
 
 ## 🌍 Live Demo
 - Experience the live application here: https://portalsystemeventes.infinityfreeapp.com/
