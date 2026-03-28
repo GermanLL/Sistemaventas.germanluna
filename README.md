@@ -40,7 +40,7 @@ To set up this project on your local environment:
 
 4. **Database Connection:**
 
--Edit the connection file (config.php) If nothing changed during the import, you only need to check the port.
+ -Edit the connection file (config.php) If nothing changed during the import, you only need to check the port.
 
 5. **Access the App:**
 
